@@ -11390,5 +11390,37 @@
     "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
+  },
+  "DinamoZagreb": {
+    "elo": 1513.0,
+    "attack": 0.9377,
+    "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "Anderlecht": {
+    "elo": 1487.0,
+    "attack": 0.9025,
+    "defense": 0.9377,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "JagielloniaBialystok": {
+    "elo": 1523.5,
+    "attack": 1.0081,
+    "defense": 0.9377,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "AraratArmenia": {
+    "elo": 1476.5,
+    "attack": 0.9377,
+    "defense": 1.0081,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
   }
 }
