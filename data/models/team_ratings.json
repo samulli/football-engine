@@ -424,10 +424,10 @@
     "rest_days": 3
   },
   "弗鲁米嫩塞": {
-    "elo": 1640.0,
-    "attack": 0.5186,
-    "defense": 0.3375,
-    "form": 0.2843,
+    "elo": 1627.8,
+    "attack": 0.5032,
+    "defense": 0.375,
+    "form": -0.101,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -512,10 +512,10 @@
     "rest_days": 3
   },
   "帕尔梅拉斯": {
-    "elo": 1788.3,
-    "attack": 0.6619,
-    "defense": 0.2653,
-    "form": 0.3221,
+    "elo": 1800.5,
+    "attack": 0.6677,
+    "defense": 0.2746,
+    "form": 0.5255,
     "injury": 0.0,
     "rest_days": 3
   },
