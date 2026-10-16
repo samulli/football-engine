@@ -1272,10 +1272,10 @@
     "rest_days": 3
   },
   "SBV精英": {
-    "elo": 1499.3,
-    "attack": 0.9898,
-    "defense": 1.0204,
-    "form": 0.059,
+    "elo": 1454.8,
+    "attack": 0.8933,
+    "defense": 1.0617,
+    "form": -0.2587,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1296,10 +1296,10 @@
     "rest_days": 3
   },
   "海伦芬": {
-    "elo": 1498.3,
-    "attack": 0.8725,
-    "defense": 0.925,
-    "form": -0.4172,
+    "elo": 1542.8,
+    "attack": 0.9282,
+    "defense": 0.8348,
+    "form": 0.008,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2056,10 +2056,10 @@
     "rest_days": 3
   },
   "科隆": {
-    "elo": 1497.5,
-    "attack": 0.8308,
-    "defense": 1.1602,
-    "form": -0.04,
+    "elo": 1485.0,
+    "attack": 0.7498,
+    "defense": 1.0823,
+    "form": -0.328,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2072,10 +2072,10 @@
     "rest_days": 3
   },
   "法兰克福": {
-    "elo": 1510.2,
-    "attack": 0.9261,
-    "defense": 1.2816,
-    "form": -0.3206,
+    "elo": 1522.7,
+    "attack": 0.871,
+    "defense": 1.1566,
+    "form": 0.0756,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5720,10 +5720,10 @@
     "rest_days": 3
   },
   "佐加顿斯": {
-    "elo": 1723.2,
-    "attack": 0.9225,
-    "defense": 0.2027,
-    "form": 0.8233,
+    "elo": 1738.4,
+    "attack": 0.9029,
+    "defense": 0.1829,
+    "form": 0.8763,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9432,10 +9432,10 @@
     "rest_days": 3
   },
   "奥斯": {
-    "elo": 1473.0,
-    "attack": 0.9377,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1461.6,
+    "attack": 0.8815,
+    "defense": 0.9484,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10048,10 +10048,10 @@
     "rest_days": 3
   },
   "登博思": {
-    "elo": 1509.8,
-    "attack": 0.922,
-    "defense": 0.8653,
-    "form": -0.0459,
+    "elo": 1521.2,
+    "attack": 0.9025,
+    "defense": 0.8161,
+    "form": 0.2679,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10576,10 +10576,10 @@
     "rest_days": 3
   },
   "布鲁马波卡纳": {
-    "elo": 1479.7,
-    "attack": 0.9377,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1464.5,
+    "attack": 0.8463,
+    "defense": 0.9802,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
