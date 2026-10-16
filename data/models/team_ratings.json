@@ -1424,10 +1424,10 @@
     "rest_days": 3
   },
   "图卢兹": {
-    "elo": 1557.0,
-    "attack": 0.7907,
-    "defense": 0.9708,
-    "form": -0.2919,
+    "elo": 1600.6,
+    "attack": 0.8192,
+    "defense": 0.8761,
+    "form": 0.0957,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1840,10 +1840,10 @@
     "rest_days": 3
   },
   "伯恩利": {
-    "elo": 1448.0,
-    "attack": 0.6432,
-    "defense": 1.2454,
-    "form": -0.3876,
+    "elo": 1433.9,
+    "attack": 0.6157,
+    "defense": 1.1943,
+    "form": -0.5713,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2256,10 +2256,10 @@
     "rest_days": 3
   },
   "莱万特": {
-    "elo": 1550.1,
-    "attack": 0.797,
-    "defense": 0.9927,
-    "form": -0.3088,
+    "elo": 1552.0,
+    "attack": 0.7545,
+    "defense": 0.9311,
+    "form": -0.2162,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2344,10 +2344,10 @@
     "rest_days": 3
   },
   "萨索洛": {
-    "elo": 1567.7,
-    "attack": 0.7015,
-    "defense": 0.8038,
-    "form": -0.0917,
+    "elo": 1545.6,
+    "attack": 0.7035,
+    "defense": 0.8662,
+    "form": -0.3642,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3544,10 +3544,10 @@
     "rest_days": 3
   },
   "狼队": {
-    "elo": 1554.2,
-    "attack": 0.6904,
-    "defense": 1.0167,
-    "form": 0.2034,
+    "elo": 1568.3,
+    "attack": 0.6935,
+    "defense": 0.9528,
+    "form": 0.4424,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10232,10 +10232,10 @@
     "rest_days": 3
   },
   "拉科鲁尼亚": {
-    "elo": 1526.7,
-    "attack": 0.7375,
-    "defense": 0.7359,
-    "form": -0.3246,
+    "elo": 1524.8,
+    "attack": 0.7008,
+    "defense": 0.6993,
+    "form": -0.2272,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10360,10 +10360,10 @@
     "rest_days": 3
   },
   "弗罗西诺内": {
-    "elo": 1585.3,
-    "attack": 0.744,
-    "defense": 0.716,
-    "form": 0.028,
+    "elo": 1607.4,
+    "attack": 0.8122,
+    "defense": 0.7166,
+    "form": 0.3196,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10584,10 +10584,10 @@
     "rest_days": 3
   },
   "勒芒": {
-    "elo": 1509.1,
-    "attack": 0.9729,
-    "defense": 0.9729,
-    "form": 0.0,
+    "elo": 1465.5,
+    "attack": 0.878,
+    "defense": 0.9836,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },

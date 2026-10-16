@@ -61,5 +61,41 @@
     "away_team": "科隆",
     "half_home_score": 0,
     "half_away_score": 0
+  },
+  {
+    "match_id": "3744986",
+    "home_score": 4,
+    "away_score": 2,
+    "home_team": "弗罗西诺内",
+    "away_team": "萨索洛",
+    "half_home_score": 3,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "3747043",
+    "home_score": 0,
+    "away_score": 3,
+    "home_team": "勒芒",
+    "away_team": "图卢兹",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3760654",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "伯恩利",
+    "away_team": "狼队",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "3762618",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "拉科鲁尼亚",
+    "away_team": "莱万特",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]
