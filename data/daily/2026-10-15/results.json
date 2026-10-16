@@ -63,7 +63,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841181",
+    "match_id": "周四003",
     "home_score": 0,
     "away_score": 4,
     "home_team": "波兹南莱赫",
@@ -72,7 +72,7 @@
     "half_away_score": 3
   },
   {
-    "match_id": "3841260",
+    "match_id": "周四004",
     "home_score": 1,
     "away_score": 1,
     "home_team": "圣吉联合",
@@ -99,7 +99,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841200",
+    "match_id": "周四001",
     "home_score": 3,
     "away_score": 2,
     "home_team": "里昂",
@@ -207,7 +207,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841163",
+    "match_id": "周四009",
     "home_score": 2,
     "away_score": 3,
     "home_team": "霍芬海姆",
@@ -216,7 +216,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841204",
+    "match_id": "周四010",
     "home_score": 0,
     "away_score": 1,
     "home_team": "马赛",
@@ -225,7 +225,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3841122",
+    "match_id": "周四012",
     "home_score": 4,
     "away_score": 1,
     "home_team": "本菲卡",
@@ -234,7 +234,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841085",
+    "match_id": "周四013",
     "home_score": 3,
     "away_score": 0,
     "home_team": "哥本哈根",
@@ -243,7 +243,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841130",
+    "match_id": "周四011",
     "home_score": 3,
     "away_score": 0,
     "home_team": "伯恩茅斯",
@@ -266,6 +266,70 @@
     "away_score": 1,
     "home_team": "Jagiellonia Bialystok",
     "away_team": "Ararat-Armenia",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周四002",
+    "home_team": "托林斯",
+    "away_team": "桑德兰",
+    "home_score": 1,
+    "away_score": 2,
+    "competition": "欧联",
+    "match_date": "2026-10-15",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周四005",
+    "home_team": "萨尔茨堡",
+    "away_team": "AC米兰",
+    "home_score": 0,
+    "away_score": 4,
+    "competition": "欧联",
+    "match_date": "2026-10-15",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周四006",
+    "home_team": "克拉约瓦",
+    "away_team": "赫塔费",
+    "home_score": 1,
+    "away_score": 1,
+    "competition": "欧协联",
+    "match_date": "2026-10-15",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周四008",
+    "home_team": "塞尔塔",
+    "away_team": "尤文图斯",
+    "home_score": 1,
+    "away_score": 2,
+    "competition": "欧联",
+    "match_date": "2026-10-15",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周四014",
+    "home_team": "拉普大学",
+    "away_team": "弗拉门戈",
+    "home_score": 0,
+    "away_score": 0,
+    "competition": "解放者杯",
+    "match_date": "2026-10-15",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "3862971",
+    "home_score": 0,
+    "away_score": 0,
+    "home_team": "拉普拉塔大学生",
+    "away_team": "弗拉门戈",
     "half_home_score": 0,
     "half_away_score": 0
   }
