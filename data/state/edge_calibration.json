@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:30:27",
+  "generated_at": "2026-10-17T16:29:47",
   "n_settled": 925,
   "n_positive_edge": 116,
   "edge_buckets": [
@@ -48,10 +48,10 @@
     {
       "bucket": "[0.40,0.50)",
       "n": 360,
-      "actual_hit_rate": 0.4972,
+      "actual_hit_rate": 0.5,
       "required_hit_rate": 0.532,
-      "ev_gap": -0.0348,
-      "roi_proxy": -0.0654
+      "ev_gap": -0.032,
+      "roi_proxy": -0.0602
     },
     {
       "bucket": "[0.50,0.60)",

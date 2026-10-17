@@ -59,10 +59,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 3,
     "draw_hits": 0,
-    "total_predictions": 20,
-    "total_hits": 6,
+    "total_predictions": 21,
+    "total_hits": 7,
     "avg_overround": 0.0,
-    "last_updated": "2026-10-12"
+    "last_updated": "2026-10-17"
   },
   "瑞典超": {
     "base_goals": 1.35,
