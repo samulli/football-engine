@@ -3576,10 +3576,10 @@
     "rest_days": 3
   },
   "斯特拉斯堡": {
-    "elo": 1614.3,
-    "attack": 0.9449,
-    "defense": 0.8925,
-    "form": -0.3509,
+    "elo": 1587.1,
+    "attack": 0.888,
+    "defense": 0.911,
+    "form": -0.5456,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4624,10 +4624,10 @@
     "rest_days": 3
   },
   "博洛尼亚": {
-    "elo": 1613.4,
-    "attack": 0.6588,
-    "defense": 0.7413,
-    "form": 0.0561,
+    "elo": 1578.7,
+    "attack": 0.6298,
+    "defense": 0.7746,
+    "form": -0.2607,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9896,10 +9896,10 @@
     "rest_days": 3
   },
   "巴黎圣日耳曼": {
-    "elo": 1698.1,
-    "attack": 0.9661,
-    "defense": 0.693,
-    "form": 0.7479,
+    "elo": 1725.3,
+    "attack": 0.9775,
+    "defense": 0.6606,
+    "form": 0.8235,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10328,10 +10328,10 @@
     "rest_days": 3
   },
   "国米": {
-    "elo": 1606.7,
-    "attack": 1.0017,
-    "defense": 0.8218,
-    "form": 0.0513,
+    "elo": 1641.4,
+    "attack": 1.0096,
+    "defense": 0.7769,
+    "form": 0.3359,
     "injury": 0.0,
     "rest_days": 3
   },
