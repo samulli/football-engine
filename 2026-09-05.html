@@ -7100,24 +7100,24 @@ a { color:var(--blue); }
   <div class="section-title">预测时点分桶（提前多久预测最准）</div>
   <div style="padding:6px 2px;font-size:0.68rem;color:var(--dim)">
     按预测截点距开赛时长分桶评估。历史账本无 as_of 字段，样本从新预测起累积
-    （约 2-4 周出有效样本）。最佳时点: <b>closing</b>。
+    （约 2-4 周出有效样本）。最佳时点: <b>t6h</b>。
   </div>
   <div style="overflow-x:auto"><table class="edge-table">
     <tr><th>时点</th><th>场次</th><th>Brier</th><th>命中率</th><th>总EV</th></tr>
-    <tr><td>开赛前24小时</td><td>0</td><td>0.0000</td><td>0.0%</td><td style="color:var(--dim);font-weight:700">+0.00u</td></tr><tr><td>开赛前6小时</td><td>8</td><td>0.5575</td><td>50.0%</td><td style="color:var(--dim);font-weight:700">+0.00u</td></tr><tr><td>开赛前90分钟</td><td>40</td><td>0.6241</td><td>52.5%</td><td style="color:var(--red);font-weight:700">-122.51u</td></tr><tr><td>收盘市场</td><td>43</td><td>0.5501</td><td>69.8%</td><td style="color:var(--dim);font-weight:700">+0.00u</td></tr>
+    <tr><td>开赛前24小时</td><td>1</td><td>0.0811</td><td>100.0%</td><td style="color:var(--dim);font-weight:700">+0.00u</td></tr><tr><td>开赛前6小时</td><td>189</td><td>0.5409</td><td>56.6%</td><td style="color:var(--red);font-weight:700">-63.13u</td></tr><tr><td>开赛前90分钟</td><td>417</td><td>0.5523</td><td>58.3%</td><td style="color:var(--red);font-weight:700">-302.47u</td></tr><tr><td>收盘市场</td><td>141</td><td>0.5930</td><td>54.6%</td><td style="color:var(--red);font-weight:700">-50.00u</td></tr>
   </table></div>
 
   <div class="section-title">Dixon-Coles 分层收缩挑战者（vs 生产模型）</div>
   <div style="padding:6px 2px;font-size:0.68rem;color:var(--dim)">
-    滚动拟合（只用评估日之前历史，防泄漏）对比 Brier，n=323 场。
+    滚动拟合（只用评估日之前历史，防泄漏）对比 Brier，n=1011 场。
     Verdict: <b style="color:var(--amber)">hold</b> —— 只做 challenger 跟踪，不上位。
   </div>
   <div style="overflow-x:auto"><table class="edge-table">
     <tr><th>模型</th><th>Brier</th></tr>
-    <tr><td>shrinkage_dc（挑战者）</td><td style="font-weight:700">0.7126</td></tr>
-    <tr><td>生产 final（现役）</td><td style="font-weight:700">0.6277</td></tr>
-    <tr><td>模型原始（未融合）</td><td style="font-weight:700">0.6582</td></tr>
-    <tr><td>市场基准（去水）</td><td style="font-weight:700">0.6037</td></tr>
+    <tr><td>shrinkage_dc（挑战者）</td><td style="font-weight:700">0.6224</td></tr>
+    <tr><td>生产 final（现役）</td><td style="font-weight:700">0.5784</td></tr>
+    <tr><td>模型原始（未融合）</td><td style="font-weight:700">0.6119</td></tr>
+    <tr><td>市场基准（去水）</td><td style="font-weight:700">0.5696</td></tr>
   </table></div>
       </div>
     </details>
