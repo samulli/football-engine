@@ -424,10 +424,10 @@
     "rest_days": 3
   },
   "弗鲁米嫩塞": {
-    "elo": 1627.8,
-    "attack": 0.5032,
-    "defense": 0.375,
-    "form": -0.101,
+    "elo": 1604.6,
+    "attack": 0.4893,
+    "defense": 0.4088,
+    "form": -0.3707,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -504,10 +504,10 @@
     "rest_days": 3
   },
   "桑托斯": {
-    "elo": 1524.9,
-    "attack": 0.4911,
-    "defense": 0.5624,
-    "form": -0.3631,
+    "elo": 1548.1,
+    "attack": 0.5136,
+    "defense": 0.5428,
+    "form": 0.0458,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1488,10 +1488,10 @@
     "rest_days": 3
   },
   "塞维利亚": {
-    "elo": 1583.3,
-    "attack": 0.6905,
-    "defense": 0.8197,
-    "form": 0.033,
+    "elo": 1570.5,
+    "attack": 0.6584,
+    "defense": 0.8805,
+    "form": -0.2769,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3512,10 +3512,10 @@
     "rest_days": 3
   },
   "皇马": {
-    "elo": 1814.4,
-    "attack": 1.1577,
-    "defense": 0.657,
-    "form": 0.617,
+    "elo": 1827.2,
+    "attack": 1.1856,
+    "defense": 0.6281,
+    "form": 0.7319,
     "injury": 0.0,
     "rest_days": 3
   },
