@@ -488,10 +488,10 @@
     "rest_days": 3
   },
   "科林蒂安": {
-    "elo": 1633.9,
-    "attack": 0.3374,
-    "defense": 0.3005,
-    "form": -0.5733,
+    "elo": 1624.5,
+    "attack": 0.3397,
+    "defense": 0.3064,
+    "form": -0.4013,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -528,10 +528,10 @@
     "rest_days": 3
   },
   "维多利亚": {
-    "elo": 1465.3,
-    "attack": 0.3078,
-    "defense": 0.6824,
-    "form": -0.1846,
+    "elo": 1474.7,
+    "attack": 0.313,
+    "defense": 0.6511,
+    "form": -0.1292,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1640,10 +1640,10 @@
     "rest_days": 3
   },
   "吉维森特": {
-    "elo": 1516.7,
-    "attack": 0.9343,
-    "defense": 0.9765,
-    "form": -0.4743,
+    "elo": 1541.4,
+    "attack": 0.9136,
+    "defense": 0.9165,
+    "form": -0.032,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1768,10 +1768,10 @@
     "rest_days": 3
   },
   "布拉加": {
-    "elo": 1664.9,
-    "attack": 0.6302,
-    "defense": 0.4667,
-    "form": -0.536,
+    "elo": 1640.2,
+    "attack": 0.6039,
+    "defense": 0.4916,
+    "form": -0.6752,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2232,10 +2232,10 @@
     "rest_days": 3
   },
   "赫塔费": {
-    "elo": 1612.0,
-    "attack": 0.6284,
-    "defense": 0.703,
-    "form": 0.1555,
+    "elo": 1609.2,
+    "attack": 0.6023,
+    "defense": 0.6696,
+    "form": 0.1088,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2264,10 +2264,10 @@
     "rest_days": 3
   },
   "巴列卡诺": {
-    "elo": 1615.8,
-    "attack": 0.6913,
-    "defense": 0.7521,
-    "form": 0.0509,
+    "elo": 1618.6,
+    "attack": 0.6591,
+    "defense": 0.714,
+    "form": 0.0356,
     "injury": 0.0,
     "rest_days": 3
   },
