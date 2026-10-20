@@ -1504,10 +1504,10 @@
     "rest_days": 3
   },
   "多特蒙德": {
-    "elo": 1741.6,
-    "attack": 0.4731,
-    "defense": 0.488,
-    "form": 0.0177,
+    "elo": 1753.7,
+    "attack": 0.4973,
+    "defense": 0.4756,
+    "form": 0.3124,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4384,10 +4384,10 @@
     "rest_days": 3
   },
   "费内巴切": {
-    "elo": 1695.2,
-    "attack": 0.5712,
-    "defense": 0.6148,
-    "form": -0.0256,
+    "elo": 1686.3,
+    "attack": 0.5859,
+    "defense": 0.6252,
+    "form": -0.0179,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5120,10 +5120,10 @@
     "rest_days": 3
   },
   "布拉格斯拉维亚": {
-    "elo": 1542.4,
-    "attack": 0.8452,
-    "defense": 1.2823,
-    "form": -0.7955,
+    "elo": 1551.3,
+    "attack": 0.8332,
+    "defense": 1.2276,
+    "form": -0.5568,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6296,10 +6296,10 @@
     "rest_days": 3
   },
   "萨巴赫": {
-    "elo": 1591.3,
-    "attack": 0.8933,
-    "defense": 0.7625,
-    "form": 0.0406,
+    "elo": 1579.2,
+    "attack": 0.8414,
+    "defense": 0.7585,
+    "form": -0.2716,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11588,6 +11588,38 @@
     "attack": 0.9025,
     "defense": 1.0081,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "Fenerbahce": {
+    "elo": 1497.0,
+    "attack": 0.9729,
+    "defense": 0.9729,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "SlaviaPrague": {
+    "elo": 1503.0,
+    "attack": 0.9729,
+    "defense": 0.9729,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "SabahFK": {
+    "elo": 1481.0,
+    "attack": 0.9377,
+    "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "BorussiaDortmund": {
+    "elo": 1519.0,
+    "attack": 0.9729,
+    "defense": 0.9377,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }
