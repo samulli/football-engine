@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-20T20:35:03",
+  "generated_at": "2026-10-20T23:25:13",
   "total_matches": 1223,
   "no_kickoff_time": 0,
   "snapshots": {
-    "mean": 2.97,
-    "median": 2,
+    "mean": 2.98,
+    "median": 3,
     "max": 12,
     "dist": {
-      "1": 282,
-      "2": 331,
+      "1": 278,
+      "2": 333,
       "3": 280,
-      "4": 139,
+      "4": 141,
       "5": 65,
       "6": 34,
       "7": 28,
@@ -22,14 +22,14 @@
     }
   },
   "multi_snapshot": {
-    "n": 941,
-    "ratio": 0.7694
+    "n": 945,
+    "ratio": 0.7727
   },
-  "odds_actually_moved": 934,
-  "odds_flat": 289,
+  "odds_actually_moved": 938,
+  "odds_flat": 285,
   "gap_hours": {
-    "median": 4.04,
-    "mean": 5.27,
+    "median": 4.03,
+    "mean": 5.26,
     "p90": 11.0
   },
   "lead_to_kickoff_hours": {
