@@ -312,10 +312,10 @@
     "rest_days": 3
   },
   "凯尔特人": {
-    "elo": 1616.8,
-    "attack": 0.8619,
-    "defense": 0.9891,
-    "form": -0.0876,
+    "elo": 1594.1,
+    "attack": 0.813,
+    "defense": 0.963,
+    "form": -0.3613,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -656,18 +656,18 @@
     "rest_days": 3
   },
   "AC米兰": {
-    "elo": 1746.0,
-    "attack": 0.8284,
-    "defense": 0.5501,
-    "form": 0.5693,
+    "elo": 1716.9,
+    "attack": 0.7476,
+    "defense": 0.602,
+    "form": 0.0985,
     "injury": 0.0,
     "rest_days": 3
   },
   "伯恩茅斯": {
-    "elo": 1788.6,
-    "attack": 0.7909,
-    "defense": 0.6845,
-    "form": 0.3287,
+    "elo": 1817.7,
+    "attack": 0.8193,
+    "defense": 0.6178,
+    "form": 0.5301,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -944,10 +944,10 @@
     "rest_days": 3
   },
   "贝西克塔斯": {
-    "elo": 1779.7,
-    "attack": 0.773,
-    "defense": 0.2958,
-    "form": 0.9966,
+    "elo": 1773.9,
+    "attack": 0.768,
+    "defense": 0.3373,
+    "form": 0.6976,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1088,10 +1088,10 @@
     "rest_days": 3
   },
   "摩纳哥": {
-    "elo": 1699.8,
-    "attack": 0.8812,
-    "defense": 0.7897,
-    "form": -0.0211,
+    "elo": 1740.2,
+    "attack": 0.9008,
+    "defense": 0.7127,
+    "form": 0.2852,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1232,10 +1232,10 @@
     "rest_days": 3
   },
   "阿贾克斯": {
-    "elo": 1783.4,
-    "attack": 1.2457,
-    "defense": 0.5345,
-    "form": 0.5855,
+    "elo": 1799.4,
+    "attack": 1.1946,
+    "defense": 0.4824,
+    "form": 0.7098,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1392,10 +1392,10 @@
     "rest_days": 3
   },
   "里昂": {
-    "elo": 1766.9,
-    "attack": 0.8352,
-    "defense": 0.5454,
-    "form": 0.5624,
+    "elo": 1708.2,
+    "attack": 0.7538,
+    "defense": 0.5978,
+    "form": 0.0937,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1624,10 +1624,10 @@
     "rest_days": 3
   },
   "水晶宫": {
-    "elo": 1712.2,
-    "attack": 0.7921,
-    "defense": 0.7917,
-    "form": -0.068,
+    "elo": 1718.0,
+    "attack": 0.7852,
+    "defense": 0.7849,
+    "form": -0.0476,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2024,10 +2024,10 @@
     "rest_days": 3
   },
   "霍芬海姆": {
-    "elo": 1550.6,
-    "attack": 0.8969,
-    "defense": 1.0322,
-    "form": -0.2394,
+    "elo": 1609.3,
+    "attack": 0.915,
+    "defense": 0.9316,
+    "form": 0.1324,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2080,10 +2080,10 @@
     "rest_days": 3
   },
   "弗赖堡": {
-    "elo": 1754.4,
-    "attack": 1.0174,
-    "defense": 0.7799,
-    "form": 0.1144,
+    "elo": 1714.0,
+    "attack": 0.9182,
+    "defense": 0.8094,
+    "form": -0.2199,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2144,10 +2144,10 @@
     "rest_days": 3
   },
   "亚特兰大": {
-    "elo": 1682.0,
-    "attack": 0.787,
-    "defense": 0.7708,
-    "form": -0.3379,
+    "elo": 1666.0,
+    "attack": 0.7103,
+    "defense": 0.766,
+    "form": -0.5365,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2248,10 +2248,10 @@
     "rest_days": 3
   },
   "皇家社会": {
-    "elo": 1621.6,
-    "attack": 0.8939,
-    "defense": 0.8379,
-    "form": 0.4534,
+    "elo": 1687.0,
+    "attack": 1.0179,
+    "defense": 0.7562,
+    "form": 0.6174,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10336,10 +10336,10 @@
     "rest_days": 3
   },
   "塞尔塔": {
-    "elo": 1525.9,
-    "attack": 0.6091,
-    "defense": 0.5446,
-    "form": 0.0915,
+    "elo": 1548.6,
+    "attack": 0.6201,
+    "defense": 0.5267,
+    "form": 0.364,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10776,10 +10776,10 @@
     "rest_days": 3
   },
   "利勒斯特罗姆": {
-    "elo": 1492.6,
-    "attack": 0.8849,
-    "defense": 0.9802,
-    "form": -0.21,
+    "elo": 1427.2,
+    "attack": 0.7986,
+    "defense": 1.0957,
+    "form": -0.447,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11168,66 +11168,66 @@
     "rest_days": 3
   },
   "Lyon": {
-    "elo": 1513.0,
-    "attack": 1.0081,
-    "defense": 0.9729,
-    "form": 0.3,
+    "elo": 1475.3,
+    "attack": 0.9098,
+    "defense": 0.9836,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
   "CrystalPalace": {
-    "elo": 1487.0,
-    "attack": 0.9729,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1491.4,
+    "attack": 0.9484,
+    "defense": 0.9802,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
   "NKCelje": {
-    "elo": 1450.7,
-    "attack": 0.9025,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1447.1,
+    "attack": 0.8849,
+    "defense": 0.9802,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
   "OmoniaNicosia": {
-    "elo": 1549.3,
-    "attack": 1.0081,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1498.2,
+    "attack": 0.945,
+    "defense": 0.9552,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
   "RBSalzburg": {
-    "elo": 1435.5,
-    "attack": 0.9025,
-    "defense": 1.0432,
-    "form": -0.3,
+    "elo": 1439.1,
+    "attack": 0.8849,
+    "defense": 1.0119,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
   "ACMilan": {
-    "elo": 1564.5,
-    "attack": 1.0432,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1527.0,
+    "attack": 0.9415,
+    "defense": 0.9201,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
   "SpartaPrague": {
-    "elo": 1497.0,
-    "attack": 0.9377,
-    "defense": 0.9377,
-    "form": 0.0,
+    "elo": 1484.9,
+    "attack": 0.8463,
+    "defense": 0.8815,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
   "Lillestrom": {
-    "elo": 1503.0,
-    "attack": 0.9377,
-    "defense": 0.9377,
-    "form": 0.0,
+    "elo": 1408.2,
+    "attack": 0.8463,
+    "defense": 1.0574,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11240,10 +11240,10 @@
     "rest_days": 3
   },
   "RealSociedad": {
-    "elo": 1503.0,
-    "attack": 0.9377,
-    "defense": 0.9377,
-    "form": 0.0,
+    "elo": 1597.8,
+    "attack": 1.0574,
+    "defense": 0.8463,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11264,10 +11264,10 @@
     "rest_days": 3
   },
   "AFCBournemouth": {
-    "elo": 1533.9,
-    "attack": 1.0081,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1571.4,
+    "attack": 1.0154,
+    "defense": 0.8145,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11280,26 +11280,26 @@
     "rest_days": 3
   },
   "Benfica": {
-    "elo": 1533.9,
-    "attack": 1.0432,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1585.0,
+    "attack": 1.0822,
+    "defense": 0.8815,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
   "Celtic": {
-    "elo": 1466.1,
-    "attack": 0.9377,
-    "defense": 1.0432,
-    "form": -0.3,
+    "elo": 1447.8,
+    "attack": 0.8815,
+    "defense": 1.0119,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
   "CeltaVigo": {
-    "elo": 1481.0,
-    "attack": 0.9377,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1499.3,
+    "attack": 0.9166,
+    "defense": 0.9132,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11320,10 +11320,10 @@
     "rest_days": 3
   },
   "ViktoriaPlzen": {
-    "elo": 1487.0,
-    "attack": 0.9377,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1468.8,
+    "attack": 0.8815,
+    "defense": 0.9484,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11336,10 +11336,10 @@
     "rest_days": 3
   },
   "Olympiacos": {
-    "elo": 1519.0,
-    "attack": 0.9377,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1531.1,
+    "attack": 0.8815,
+    "defense": 0.8145,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11352,10 +11352,10 @@
     "rest_days": 3
   },
   "LevskiSofia": {
-    "elo": 1503.0,
-    "attack": 0.9377,
-    "defense": 0.9377,
-    "form": 0.0,
+    "elo": 1521.2,
+    "attack": 0.9166,
+    "defense": 0.8815,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11376,18 +11376,18 @@
     "rest_days": 3
   },
   "TSGHoffenheim": {
-    "elo": 1481.0,
-    "attack": 0.9729,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1518.7,
+    "attack": 0.9836,
+    "defense": 0.9098,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
   "Besiktas": {
-    "elo": 1519.0,
-    "attack": 1.0081,
-    "defense": 0.9729,
-    "form": 0.3,
+    "elo": 1514.6,
+    "attack": 0.9802,
+    "defense": 0.9484,
+    "form": 0.21,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11400,18 +11400,18 @@
     "rest_days": 3
   },
   "Anderlecht": {
-    "elo": 1487.0,
-    "attack": 0.9025,
-    "defense": 0.9377,
-    "form": -0.3,
+    "elo": 1540.4,
+    "attack": 0.9201,
+    "defense": 0.8463,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
   "JagielloniaBialystok": {
-    "elo": 1523.5,
-    "attack": 1.0081,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1470.1,
+    "attack": 0.9098,
+    "defense": 0.9518,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
